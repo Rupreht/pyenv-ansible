@@ -1,5 +1,13 @@
 # Pyenv for ansible
 
+## Deployment this project (example)
+
+```sh
+mkdir -p ~/work && cd ~/work
+git clone https://github.com/Rupreht/pyenv-ansible.git
+cd pyenv-ansible
+```
+
 ## Install pyenv
 
 ### MacOS
